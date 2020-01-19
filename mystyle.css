@@ -1,6 +1,7 @@
 a {
     font-size: 14;
     font: 1em sans-serif;
+    font-
 }
 
 .right {
@@ -9,4 +10,17 @@ a {
 
 .left {
     float: left;
+}
+
+#logo {
+    padding-top: 155px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#search {
+    text-align: center;
+    box-sizing: 50;
+    border-radius: 5px;
 }
