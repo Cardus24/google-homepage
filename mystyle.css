@@ -3,10 +3,10 @@ a {
     font: 1em sans-serif;
 }
 
-div.right {
+.right {
     float: right;
 }
 
-div.left {
+.left {
     float: left;
 }
